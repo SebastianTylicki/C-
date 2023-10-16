@@ -16,9 +16,11 @@ namespace AiSD_io_4
         {
             int liczbaN = (int)nudFIB.Value;
 
-            int wynik = Fib(liczbaN);
+            bw.RunWorkerAsync(liczbaN);
 
-            MessageBox.Show(wynik.ToString());
+            //int wynik = Fib(liczbaN);
+
+            //MessageBox.Show(wynik.ToString());
         }
 
         int Fib(int n)
@@ -39,6 +41,19 @@ namespace AiSD_io_4
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
 
+        }
+        private void bw_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
+        {
+            var liczbaN = int.Parse(e.Argument.ToString());
+
+            int wynik = Fib(liczbaN);
+
+            e.Result = wynik;
+        }
+
+        private void bw_RunWorkerCompleted(object sender, System.ComponentModel.RunWorkerCompletedEventArgs e)
+        {
+            MessageBox.Show(e.Result.ToString());
         }
     }
 }

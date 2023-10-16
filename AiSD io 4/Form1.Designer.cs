@@ -30,6 +30,7 @@
         {
             this.btnStart = new System.Windows.Forms.Button();
             this.nudFIB = new System.Windows.Forms.NumericUpDown();
+            this.bw = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.nudFIB)).BeginInit();
             this.SuspendLayout();
             // 
@@ -56,6 +57,11 @@
             0});
             this.nudFIB.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
+            // bw
+            // 
+            this.bw.DoWork += new System.ComponentModel.DoWorkEventHandler(this.bw_DoWork);
+            this.bw.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.bw_RunWorkerCompleted);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -75,5 +81,6 @@
 
         private Button btnStart;
         private NumericUpDown nudFIB;
+        private System.ComponentModel.BackgroundWorker bw;
     }
 }
