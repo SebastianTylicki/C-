@@ -1,0 +1,17 @@
+D:\169514\AiSD io 4\bin\Debug\net6.0-windows\AiSD io 4.exe
+D:\169514\AiSD io 4\bin\Debug\net6.0-windows\AiSD io 4.deps.json
+D:\169514\AiSD io 4\bin\Debug\net6.0-windows\AiSD io 4.runtimeconfig.json
+D:\169514\AiSD io 4\bin\Debug\net6.0-windows\AiSD io 4.dll
+D:\169514\AiSD io 4\bin\Debug\net6.0-windows\AiSD io 4.pdb
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.csproj.AssemblyReference.cache
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD_io_4.Form1.resources
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.csproj.GenerateResource.cache
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.AssemblyInfoInputs.cache
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.AssemblyInfo.cs
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.csproj.CoreCompileInputs.cache
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.dll
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\refint\AiSD io 4.dll
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.pdb
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\AiSD io 4.genruntimeconfig.cache
+D:\169514\AiSD io 4\obj\Debug\net6.0-windows\ref\AiSD io 4.dll
