@@ -37,6 +37,27 @@ namespace AiSD_io_4
                 return Fib(n - 1) + Fib(n - 2);
             }
         }
+        ulong Fib2(int n)
+        {
+            if (n == 0)
+            {
+                return 0;
+            }
+            else if (n == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                ulong[] wyrazy = new ulong[n + 1];
+                wyrazy[1] = 1;
+                for (int i = 2; i < n + 1; i++) {
+                    wyrazy[i] = wyrazy[i - 1] + wyrazy[i - 2];
+                }
+                return wyrazy[n];
+
+            }
+        }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
@@ -46,7 +67,7 @@ namespace AiSD_io_4
         {
             var liczbaN = int.Parse(e.Argument.ToString());
 
-            int wynik = Fib(liczbaN);
+            ulong wynik = Fib2(liczbaN);
 
             e.Result = wynik;
         }
