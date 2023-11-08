@@ -1,0 +1,16 @@
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.Form1.resources
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.csproj.GenerateResource.cache
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.AssemblyInfoInputs.cache
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.AssemblyInfo.cs
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.csproj.CoreCompileInputs.cache
+D:\Visual\Projekty\Sort\Sort\bin\Debug\net6.0-windows\Sort.exe
+D:\Visual\Projekty\Sort\Sort\bin\Debug\net6.0-windows\Sort.deps.json
+D:\Visual\Projekty\Sort\Sort\bin\Debug\net6.0-windows\Sort.runtimeconfig.json
+D:\Visual\Projekty\Sort\Sort\bin\Debug\net6.0-windows\Sort.dll
+D:\Visual\Projekty\Sort\Sort\bin\Debug\net6.0-windows\Sort.pdb
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.dll
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\refint\Sort.dll
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.pdb
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\Sort.genruntimeconfig.cache
+D:\Visual\Projekty\Sort\Sort\obj\Debug\net6.0-windows\ref\Sort.dll
