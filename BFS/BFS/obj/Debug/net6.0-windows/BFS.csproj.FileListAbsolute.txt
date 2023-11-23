@@ -1,0 +1,16 @@
+D:\Visual\Projekty\BFS\BFS\bin\Debug\net6.0-windows\BFS.exe
+D:\Visual\Projekty\BFS\BFS\bin\Debug\net6.0-windows\BFS.deps.json
+D:\Visual\Projekty\BFS\BFS\bin\Debug\net6.0-windows\BFS.runtimeconfig.json
+D:\Visual\Projekty\BFS\BFS\bin\Debug\net6.0-windows\BFS.dll
+D:\Visual\Projekty\BFS\BFS\bin\Debug\net6.0-windows\BFS.pdb
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.Form1.resources
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.csproj.GenerateResource.cache
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.AssemblyInfoInputs.cache
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.AssemblyInfo.cs
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.csproj.CoreCompileInputs.cache
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.dll
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\refint\BFS.dll
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.pdb
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\BFS.genruntimeconfig.cache
+D:\Visual\Projekty\BFS\BFS\obj\Debug\net6.0-windows\ref\BFS.dll
