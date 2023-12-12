@@ -15,24 +15,15 @@ namespace WinFormsApp1
 
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click_1(object sender, EventArgs e)
-        {
-            
-        }
 
         private void button3_Click(object sender, EventArgs e)
         {
             d = new DrzewoBinarne(5);
-            d.Add(8);
-            d.Add(4);
-            d.Add(2);
             d.Add(3);
-            d.Add(1);
+            d.Add(8);
+            d.Add(7);
+            d.Add(10);
+            d.Add(7);
 
         }
     }
@@ -91,11 +82,47 @@ namespace WinFormsApp1
             }
         }
 
-        public override string ToString()
+        public Wezel3 ZnajdzMin(Wezel3 w)
         {
-            return wartosc.ToString();
+            while (w.lewedziecko != null) 
+            {
+                w = w.lewedziecko;
+            }
+            return w;
         }
-        
+        public Wezel3 ZnajdzMax(Wezel3 w)
+        {
+            while (w.prawedziecko != null)
+            {
+                w = w.prawedziecko;
+            }
+            return w;
+        }
+        public Wezel3 Nastepnik(Wezel3 w)
+        {
+            if (w.prawedziecko != null)
+            {
+                return this.ZnajdzMin(w.prawedziecko);
+            }
+            while (w.rodzic != null) 
+            {
+                if (w.rodzic.lewedziecko == w)
+                {
+                    return w.rodzic;
+                }
+                w = w.rodzic;
+            }
+            return null;
+        }
+       
+        public Wezel3 Usun(Wezel3 w)
+        {
+            // 1 Gdy nie ma dzieci odwi¹zuje wêze³
+            // 2 Gdy jest 1 dziecko, to dziecko wchodzi w miejsce odwi¹zanego wez³a
+            // 3 Gdy s¹ 2 dzieci, to bierzemy nastêpnik
+            // Nastêpnik mo¿e mieæ jedno lub 0 dzieci zmieniamy nastêpnik wg (1) lub (2)
+
+        }
 
     }
 
