@@ -1,0 +1,17 @@
+D:\169432\drzewo binarne\bin\Debug\net6.0-windows\drzewo binarne.exe
+D:\169432\drzewo binarne\bin\Debug\net6.0-windows\drzewo binarne.deps.json
+D:\169432\drzewo binarne\bin\Debug\net6.0-windows\drzewo binarne.runtimeconfig.json
+D:\169432\drzewo binarne\bin\Debug\net6.0-windows\drzewo binarne.dll
+D:\169432\drzewo binarne\bin\Debug\net6.0-windows\drzewo binarne.pdb
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.csproj.AssemblyReference.cache
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo_binarne.Form1.resources
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.csproj.GenerateResource.cache
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.GeneratedMSBuildEditorConfig.editorconfig
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.AssemblyInfoInputs.cache
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.AssemblyInfo.cs
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.csproj.CoreCompileInputs.cache
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.dll
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\refint\drzewo binarne.dll
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.pdb
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\drzewo binarne.genruntimeconfig.cache
+D:\169432\drzewo binarne\obj\Debug\net6.0-windows\ref\drzewo binarne.dll
