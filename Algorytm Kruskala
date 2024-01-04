@@ -1,0 +1,24 @@
+public class Graf
+    {
+        public List<Wezel4> ListaWezlow = new();
+        public List<Krawedz> ListaKrawedzi= new();
+        public Graf(Krawedz k) { 
+            
+        }
+        public int Spr(Krawedz k) {
+            int wynik = 0;
+            for(int i =0; i<ListaKrawedzi.Count)
+            if (k.poczatek != ) { 
+                
+            }
+            return wynik;
+        }
+        public void Add(Krawedz k) { 
+            
+        }
+        public void Join(Graf g) { 
+            
+        }
+        public Graf AlgKruskala() { 
+            
+        }
